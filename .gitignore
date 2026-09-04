@@ -1,6 +1,11 @@
-# working files: the preview renders and the extracted outlines. The outlines
-# live in the SVG itself once it is built; keeping the intermediate around
-# would be a second copy that can fall out of step with it.
+# Only the two SVGs, the README and the licence belong here. Everything else in
+# this directory is scaffolding for building them: local preview pages at the
+# widths GitHub renders at, screenshots from each engine, and the intermediate
+# font outlines. Named by extension rather than by prefix, because the prefix
+# list was wrong twice and let the scaffolding into a public repository twice.
 *.png
-name.json
-h-*.html
+*.html
+*.json
+*.mjs
+*.txt
+!LICENSE
