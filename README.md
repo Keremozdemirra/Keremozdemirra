@@ -4,13 +4,13 @@
 ## Kerem Özdemir
 
 Sustainability and economics, read in parallel at the Technical University of
-Munich and Istanbul University. Munich.
+Munich and Istanbul University.
 
 Everything here is published with its method and its limits. The numbers are
 meant to be checked rather than believed.
 
-**[keremozdemir.de](https://keremozdemir.de)** — the tools running in a
-browser, the case studies behind them, and where every figure came from.
+The tools run in a browser at **[keremozdemir.de](https://keremozdemir.de)**,
+next to the case studies behind them and the source of every figure.
 
 ### Where the work is
 
