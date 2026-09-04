@@ -1,0 +1,6 @@
+# working files: the preview renders and the extracted outlines. The outlines
+# live in the SVG itself once it is built; keeping the intermediate around
+# would be a second copy that can fall out of step with it.
+*.png
+name.json
+h-*.html
