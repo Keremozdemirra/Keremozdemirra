@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
-  <img alt="Kerem Özdemir" src="hero-light.svg">
-</picture>
+![Kerem Özdemir](hero-light.svg#gh-light-mode-only)
+![Kerem Özdemir](hero-dark.svg#gh-dark-mode-only)
 
 ## Kerem Özdemir
 
