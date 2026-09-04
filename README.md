@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="checks-dark.svg">
-  <img alt="Seventeen bars, one per finished tool, drawn to the number of checks holding each one up: Dotsheet 58, Sheetwise 72, Cutplan 43, Loudmeter 36, Cutfill 45, Cuecheck 69, Truescale 57, Setter 50, Boardplan 37, Buildup 40, Roomtake 39, Passcard 105, Placement 48, Costcurve 64, Labelgrid 27, Tagsheet 24, Letterrun 56. They come to 870." src="checks-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+  <img alt="Kerem Özdemir" src="hero-light.svg">
 </picture>
 
 ## Kerem Özdemir
@@ -26,6 +26,3 @@ browser, the case studies behind them, and where every figure came from.
 
 Twelve further repositories hold the working method as skill packs, one per
 trade. Python, MIT, and no dependency that has not earned its place.
-
-<sub>The figure above is drawn from the tools themselves rather than typed in,
-and every bar is a page you can open.</sub>
