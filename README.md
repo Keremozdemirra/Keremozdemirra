@@ -21,6 +21,10 @@ next to the case studies behind them and the source of every figure.
 | [open-climate-data](https://github.com/Keremozdemirra/open-climate-data) | Public climate, energy and emissions datasets, every value carrying its source, version and date |
 | [unitguard](https://github.com/Keremozdemirra/unitguard) | Unit and dimension safety for energy and emissions arithmetic. It refuses rather than guesses |
 | [simea](https://github.com/Keremozdemirra/simea) | Research on agency in multi-agent systems, published as written findings |
+| [rota](https://github.com/Keremozdemirra/rota) | Registry-driven routing over the skill packs, with a memory index and a repository scout. The only one of these with a runtime |
+| [agent-vitals](https://github.com/Keremozdemirra/agent-vitals) | A daily census of the AI agent tooling ecosystem: what is still maintained, what carries a licence, what went quiet |
 
 Twelve further repositories hold the working method as skill packs, one per
-trade. Python, MIT, and no dependency that has not earned its place.
+trade. Eight are prose — the method written down, in Markdown. Four carry a
+small Python helper alongside it. All twelve are MIT, and nothing here takes a
+dependency it has not earned.
