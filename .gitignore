@@ -9,3 +9,8 @@
 *.mjs
 *.txt
 !LICENSE
+
+# Local secrets never belong in the repository.
+.env
+.env.*
+!.env.example
