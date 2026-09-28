@@ -1,5 +1,9 @@
-![Kerem Özdemir](hero-light.svg#gh-light-mode-only)
-![Kerem Özdemir](hero-dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="hero-dark-still.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="hero-light-still.svg">
+  <img alt="Kerem Özdemir: sustainability and economics, Technical University of Munich and Istanbul University. The wind over Europe on 24 September 2026, drawn as streamlines." src="hero-light.svg">
+</picture>
 
 ## Kerem Özdemir
 
