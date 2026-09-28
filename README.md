@@ -2,10 +2,8 @@
   <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="hero-dark-still.svg">
   <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="hero-light-still.svg">
-  <img alt="Kerem Özdemir: sustainability and economics, Technical University of Munich and Istanbul University. The wind over Europe on 24 September 2026, drawn as streamlines." src="hero-light.svg">
+  <img alt="Kerem Özdemir: sustainability and economics, Technical University of Munich and Istanbul University. The wind over Europe, drawn as streamlines." src="hero-light.svg">
 </picture>
-
-<sub>The wind over Europe at 10 m on 24 September 2026, from <a href="https://open-meteo.com">Open-Meteo</a> under CC BY 4.0.</sub>
 
 ## Kerem Özdemir
 
@@ -33,3 +31,5 @@ Twelve further repositories hold the working method as skill packs, one per
 trade. Eight are prose: the method written down, in Markdown. Four carry a
 small Python helper alongside it. All twelve are MIT, and nothing here takes a
 dependency it has not earned.
+
+<sub>Header wind data: <a href="https://open-meteo.com">Open-Meteo</a>, CC BY 4.0.</sub>
