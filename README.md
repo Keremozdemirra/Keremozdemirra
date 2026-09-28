@@ -5,6 +5,8 @@
   <img alt="Kerem Özdemir: sustainability and economics, Technical University of Munich and Istanbul University. The wind over Europe on 24 September 2026, drawn as streamlines." src="hero-light.svg">
 </picture>
 
+<sub>The wind over Europe at 10 m on 24 September 2026, from <a href="https://open-meteo.com">Open-Meteo</a> under CC BY 4.0.</sub>
+
 ## Kerem Özdemir
 
 Sustainability and economics, read in parallel at the Technical University of
