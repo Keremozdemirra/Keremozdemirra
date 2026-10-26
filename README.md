@@ -24,7 +24,6 @@ On Zenodo since 2026-10-26, CC BY 4.0:
 | [Covering designs](https://doi.org/10.5281/zenodo.23666421) | New upper bounds for 27 covering numbers C(v,k,t), four of them exact, such as C(63,11,2) = 41 |
 | [Schur number S(7)](https://doi.org/10.5281/zenodo.23670664) | A sum-free 7-colouring of {1, ..., 1698}: S(7) ≥ 1698, up from 1696, and R_7(3) ≥ 1700 |
 | [Covering code K(20,3)](https://doi.org/10.5281/zenodo.23670398) | 1917 codewords, against 2048 in the published tables |
-| [Rectilinear crossing numbers](https://doi.org/10.5281/zenodo.23670455) | Point sets with fewer crossings than Aichholzer's table for 13 values of n from 55 to 100 |
 | [Circle packings](https://doi.org/10.5281/zenodo.23668593) | Larger certified radii for 164, 182, 193, 255 and 284 equal circles in the isosceles right triangle |
 | [Cayley graphs of diameter 2](https://doi.org/10.5281/zenodo.23668463) | Degrees 18, 19, 20, 22 and 27, each larger than the Cayley-graph entry of the degree-diameter table |
 | [Conjecture 20 of Chen, Guo, Li and Wang](https://doi.org/10.5281/zenodo.23669060) | A counterexample: the split graph of the Fano plane, n = 14, k = 6 |
