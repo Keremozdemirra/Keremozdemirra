@@ -29,9 +29,11 @@ On Zenodo since 2026-10-26, CC BY 4.0:
 | [Conjecture 20 of Chen, Guo, Li and Wang](https://doi.org/10.5281/zenodo.23669060) | A counterexample: the split graph of the Fano plane, n = 14, k = 6 |
 | [Two conjectures of Li and Guo](https://doi.org/10.5281/zenodo.23669770) | Two statements that fail as printed, one of them at the 5-cycle |
 
-Submitted 2026-10-26 and awaiting review: C_1c ≥ 0.4103454241 and C_1d ≤ 1.4556234448,
-from exact step-function [certificates](https://github.com/Keremozdemirra/tao-1c-1d-certificates),
+Submitted 2026-10-26 and awaiting review: C_1d ≤ 1.4556234448,
+from an exact step-function [certificate](https://github.com/Keremozdemirra/tao-1c-1d-certificates),
 as [a pull request](https://github.com/teorth/optimizationproblems/pull/271) to Terence Tao's optimization problems repository.
+A second bound, C_1c ≥ 0.4103454241, was withdrawn: it is below C_1c ≥ 0.4103779774
+of Chen and Gu ([arXiv:2610.18888](https://arxiv.org/abs/2610.18888), 8 October 2026).
 
 All were found and checked with Claude (Anthropic) under Kerem Özdemir's
 direction. Zenodo records are self-archived, without peer review.
