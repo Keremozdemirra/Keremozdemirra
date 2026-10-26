@@ -17,13 +17,25 @@ next to the case studies behind them and the source of every figure.
 
 ### Results
 
+On Zenodo since 2026-10-26, CC BY 4.0:
+
 | | |
 |---|---|
-| [17 covering numbers](https://doi.org/10.5281/zenodo.23666422) | New upper bounds for C(v,k,t) against the values on coveringrepository.com on 2026-10-26. Each design proves its bound, and the archive's `verify.py` checks every one exhaustively. Zenodo dataset, CC BY 4.0 |
-| [Tao's constants C_1c and C_1d](https://github.com/teorth/optimizationproblems/pull/271) | C_1c ≥ 0.4103454241 and C_1d ≤ 1.4556234448, each from an exact step-function [certificate](https://github.com/Keremozdemirra/tao-1c-1d-certificates) that three verifiers reduce to the same fraction. Pull request to Terence Tao's optimization problems repository, under review since 2026-10-26 |
+| [Covering designs](https://doi.org/10.5281/zenodo.23666421) | New upper bounds for 27 covering numbers C(v,k,t), four of them exact, such as C(63,11,2) = 41 |
+| [Schur number S(7)](https://doi.org/10.5281/zenodo.23670664) | A sum-free 7-colouring of {1, ..., 1698}: S(7) ≥ 1698, up from 1696, and R_7(3) ≥ 1700 |
+| [Covering code K(20,3)](https://doi.org/10.5281/zenodo.23670398) | 1917 codewords, against 2048 in the published tables |
+| [Rectilinear crossing numbers](https://doi.org/10.5281/zenodo.23670455) | Point sets with fewer crossings than Aichholzer's table for 13 values of n from 55 to 100 |
+| [Circle packings](https://doi.org/10.5281/zenodo.23668593) | Larger certified radii for 164, 182, 193, 255 and 284 equal circles in the isosceles right triangle |
+| [Cayley graphs of diameter 2](https://doi.org/10.5281/zenodo.23668463) | Degrees 18, 19, 20, 22 and 27, each larger than the Cayley-graph entry of the degree-diameter table |
+| [Conjecture 20 of Chen, Guo, Li and Wang](https://doi.org/10.5281/zenodo.23669060) | A counterexample: the split graph of the Fano plane, n = 14, k = 6 |
+| [Two conjectures of Li and Guo](https://doi.org/10.5281/zenodo.23669770) | Two statements that fail as printed, one of them at the 5-cycle |
 
-Both were found and checked with Claude (Anthropic) under Kerem Özdemir's
-direction. The archives carry every script needed to replay the checks.
+Submitted 2026-10-26 and awaiting review: C_1c ≥ 0.4103454241 and C_1d ≤ 1.4556234448,
+from exact step-function [certificates](https://github.com/Keremozdemirra/tao-1c-1d-certificates),
+as [a pull request](https://github.com/teorth/optimizationproblems/pull/271) to Terence Tao's optimization problems repository.
+
+All were found and checked with Claude (Anthropic) under Kerem Özdemir's
+direction. Zenodo records are self-archived, without peer review.
 
 ### EU sustainability rules, as MCP servers
 
