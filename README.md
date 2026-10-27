@@ -22,11 +22,11 @@ On Zenodo since 2026-10-26, CC BY 4.0:
 | | |
 |---|---|
 | [Covering designs](https://doi.org/10.5281/zenodo.23666421) | New upper bounds for 27 covering numbers C(v,k,t), four of them exact, such as C(63,11,2) = 41 |
-| [Schur number S(7)](https://doi.org/10.5281/zenodo.23670664) | A sum-free 7-colouring of {1, ..., 1698}: S(7) ≥ 1698, up from 1696, and R_7(3) ≥ 1700 |
-| [Covering code K(20,3)](https://doi.org/10.5281/zenodo.23670398) | 1917 codewords, against 2048 in the published tables |
-| [Circle packings](https://doi.org/10.5281/zenodo.23668593) | Larger certified radii for 164, 182, 193, 255 and 284 equal circles in the isosceles right triangle |
+| [Schur number S(7)](https://doi.org/10.5281/zenodo.23670664) | A sum-free 7-colouring of {1, ..., 1698}: S(7) ≥ 1698, up from 1696, and R_7(3) ≥ 1700; with it, S(12) ≥ 645388 and WS(10) ≥ 71340 |
+| [Covering code K(20,3)](https://doi.org/10.5281/zenodo.23670398) | 1905 codewords, against 2048 in the published tables |
+| [Circle packings](https://doi.org/10.5281/zenodo.23668593) | Larger certified radii for 255 and 284 equal circles in the isosceles right triangle. The record's packings for 164, 182 and 193 fall below a 2025 paper |
 | [Cayley graphs of diameter 2](https://doi.org/10.5281/zenodo.23668463) | Degrees 18, 19, 20, 22 and 27, each larger than the Cayley-graph entry of the degree-diameter table |
-| [Conjecture 20 of Chen, Guo, Li and Wang](https://doi.org/10.5281/zenodo.23669060) | A counterexample: the split graph of the Fano plane, n = 14, k = 6 |
+| [Conjecture 20 of Chen, Guo, Li and Wang](https://doi.org/10.5281/zenodo.23669060) | A smaller counterexample: the split graph of the Fano plane, n = 14, k = 6. W. Jiang disproved the conjecture first, with 16 vertices ([Zenodo](https://doi.org/10.5281/zenodo.22238691), September 2026) |
 | [Two conjectures of Li and Guo](https://doi.org/10.5281/zenodo.23669770) | Two statements that fail as printed, one of them at the 5-cycle |
 
 Submitted 2026-10-26 and awaiting review: C_1d ≤ 1.4556234448,
